@@ -85,11 +85,6 @@ Cara Tambah XP:
 ╠➥ ${_p} kick @Member
 ╠➥ ${_p} grouplist
 ║
-╠═〘 EXPERIMENTAL 〙 ═
-╠➥ ${_p}jadibot [kode login jika ada / kosongin]
-╠➥ ${_p}berhenti
-╠➥ ${_p}getcode
-║
 ╠═〘 OWNER 〙 ═
 ╠➥ ${_p}bcgc <teks>
 ╠➥ ${_p}setmenu <teks>
@@ -99,18 +94,13 @@ Cara Tambah XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 IKLAN 〙 ═
-╠➥ Instagram: @arpunchs
-╠➥ Github: https://github.com/Arya274/Arya-Bot
+╠➥ Instagram: @offdhymaz
 ║
-╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
-╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/6288235435804
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 NfQ BOT 〙═
+╠═〘 XM-Bots 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
